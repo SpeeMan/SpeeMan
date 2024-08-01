@@ -1,4 +1,4 @@
-- 👋 Salut, je suis @Claude M NGUNDOLI E, Technicien Réseaux Informatiques.
+- 👋 Salut, je suis @Claude NG, Technicien Réseaux Informatiques.
 - 👀 Je m'intéresse à l'informatique
 - 🌱 J'apprends actuellement JAVASCRIT, PHP et MySQL
 - 💞️ Je cherche à collaborer sur ...
